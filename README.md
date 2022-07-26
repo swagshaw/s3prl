@@ -9,6 +9,10 @@
     <a href="https://github.com/s3prl/s3prl/issues"><img alt="Bitbucket open issues" src="https://img.shields.io/github/issues/s3prl/s3prl"></a>
 </p>
 
+## Notice for pull requests
+
+Please note that if you did not explicitly discuss with Andy and Leo (the owners of the repository) about your planning development, by default it will not be merged into S3PRL and is better to be maintained in your own repository where you have the full permission. This is the common courtesy in our point of view hence there is no exception. Thanks for your understanding!
+
 ## What's New
 
 * *Mar 2022*: Introduce [**SUPERB-SG**](https://arxiv.org/abs/2203.06849), see [Speech Translation](./s3prl/downstream/speech_translation), [Out-of-domain ASR](./s3prl/downstream/ctc/), [Voice Conversion](./s3prl/downstream/a2o-vc-vcc2020/), [Speech Separation](./s3prl/downstream/separation_stft/) and [Speech Enhancement](./s3prl/downstream/enhancement_stft/) for more info.
